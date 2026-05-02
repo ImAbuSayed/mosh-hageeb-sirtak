@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق خذيني لعيونها
+> في ظلام الليل قلبي مجنونها
+> سحرها طاغٍ وروحي تصونها
+> هل أرى الفجر بنور جفونها
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
