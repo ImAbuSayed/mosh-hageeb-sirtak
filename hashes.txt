@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Hageeb Sirtak
+
+This log tracks the cryptographic history and versioning for the song **Mosh Hageeb Sirtak** (mosh-hageeb-sirtak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:17:12.706811 | `v1` | `7e338d36f8328ecd3d12d9a228d35fe0fc27812c0d2b9dd3616f0d2d30cf9b90` | `d18f21c4848284ab704a08eb3035b2897702447c0c5b90c31ad73111bcd960a9` | `2026-05-08_mosh-hageeb-sirtak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
